@@ -81,8 +81,9 @@ $(document).ready(function() {
                 <button class="btn btn-sm btn-outline-secondary">クリア</button>&nbsp;&nbsp;&nbsp;&nbsp;
                 <button class="btn btn-sm btn-outline-secondary">検索</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </div>
+          <br>
           <div class="btn-group mr-2">
-             <label>現行検索条件: </label><label>ALL</label>
+            <label style="color:black;font-weight:bold">現行検索条件: </label>&nbsp;&nbsp;&nbsp;&nbsp;<label id="" style="color:black;font-weight:bold">ALL</label>
           </div>
     <br>
     <div class="table-responsive">
